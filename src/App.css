@@ -1,0 +1,29 @@
+.app {
+  background: blue;
+  background-image: url("logo.jpg");
+
+  padding: 30px;
+  height: 100vh;
+}
+
+.tweet-list {
+  background: #e8e8e8;
+  border-radius: 4px;
+  padding: 15px;
+  max-width: 4000px;
+}
+
+.tweet {
+  background: #fff;
+  box-shadow: 2px 2px 2px rgba(119, 18, 18, 0.15);
+  padding: 3px 8px;
+  font-size: 15px;
+  margin-bottom: 16px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+
